@@ -1,0 +1,14 @@
+
+  @font-face {
+    font-family: "Baskerville MT Semibold Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Baskerville MT Semibold"), local('BaskervilleMT-Semibold'), url("https://d3jpwrui3eswtl.cloudfront.net/baskervillemtsemibold/BaskervilleMTSemibold-Regular.otf") format('opentype');
+  }
+
+  @font-face {
+    font-family: "Baskerville MT Semibold";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Baskerville MT Semibold"), local('BaskervilleMT-Semibold'), url("https://d3jpwrui3eswtl.cloudfront.net/baskervillemtsemibold/BaskervilleMTSemibold-Regular.otf") format('opentype');
+  }

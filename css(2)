@@ -1,0 +1,14 @@
+
+  @font-face {
+    font-family: "CamilaRegular Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Camila-Regular"), local('CamilaRegular'), url("https://d3jpwrui3eswtl.cloudfront.net/camilaregular/CamilaRegular-Regular.otf") format('opentype');
+  }
+
+  @font-face {
+    font-family: "CamilaRegular";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Camila-Regular"), local('CamilaRegular'), url("https://d3jpwrui3eswtl.cloudfront.net/camilaregular/CamilaRegular-Regular.otf") format('opentype');
+  }

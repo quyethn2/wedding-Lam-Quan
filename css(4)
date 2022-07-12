@@ -1,0 +1,14 @@
+
+  @font-face {
+    font-family: "Baskerville MT Semibold Italic Italic";
+    font-style: italic;
+    font-weight: 400;
+    src: local("Baskerville MT Semibold Italic"), local('BaskervilleMT-SemiboldItalic'), url("https://d3jpwrui3eswtl.cloudfront.net/baskervillemtsemibolditalic/BaskervilleMTSemiboldItalic-Italic.otf") format('opentype');
+  }
+
+  @font-face {
+    font-family: "Baskerville MT Semibold Italic";
+    font-style: italic;
+    font-weight: 400;
+    src: local("Baskerville MT Semibold Italic"), local('BaskervilleMT-SemiboldItalic'), url("https://d3jpwrui3eswtl.cloudfront.net/baskervillemtsemibolditalic/BaskervilleMTSemiboldItalic-Italic.otf") format('opentype');
+  }

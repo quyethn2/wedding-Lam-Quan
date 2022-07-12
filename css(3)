@@ -1,0 +1,14 @@
+
+  @font-face {
+    font-family: "La Luxes Serif Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: local("La Luxes Serif"), local('LaLuxesSerif'), url("https://d3jpwrui3eswtl.cloudfront.net/laluxesserif/LaLuxesSerif-Regular.ttf") format('opentype');
+  }
+
+  @font-face {
+    font-family: "La Luxes Serif";
+    font-style: normal;
+    font-weight: 400;
+    src: local("La Luxes Serif"), local('LaLuxesSerif'), url("https://d3jpwrui3eswtl.cloudfront.net/laluxesserif/LaLuxesSerif-Regular.ttf") format('opentype');
+  }

@@ -1,0 +1,28 @@
+
+  @font-face {
+    font-family: "Baskerville Book BQ Italic";
+    font-style: italic;
+    font-weight: 400;
+    src: local("BaskervilleBookBQ-Italic"), local('BaskervilleBookBQ-Italic'), url("https://d3jpwrui3eswtl.cloudfront.net/baskervillebookbq/BaskervilleBookBQ-Italic-Italic.otf") format('opentype');
+  }
+
+  @font-face {
+    font-family: "Baskerville Book BQ";
+    font-style: italic;
+    font-weight: 400;
+    src: local("BaskervilleBookBQ-Italic"), local('BaskervilleBookBQ-Italic'), url("https://d3jpwrui3eswtl.cloudfront.net/baskervillebookbq/BaskervilleBookBQ-Italic-Italic.otf") format('opentype');
+  }
+
+  @font-face {
+    font-family: "Baskerville Book BQ Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: local("BaskervilleBookBQ-Regular"), local('BaskervilleBookBQ-Regular'), url("https://d3jpwrui3eswtl.cloudfront.net/baskervillebookbq/BaskervilleBookBQ-Regular-Regular.otf") format('opentype');
+  }
+
+  @font-face {
+    font-family: "Baskerville Book BQ";
+    font-style: normal;
+    font-weight: 400;
+    src: local("BaskervilleBookBQ-Regular"), local('BaskervilleBookBQ-Regular'), url("https://d3jpwrui3eswtl.cloudfront.net/baskervillebookbq/BaskervilleBookBQ-Regular-Regular.otf") format('opentype');
+  }

@@ -1,0 +1,14 @@
+
+  @font-face {
+    font-family: "Asterism Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Asterism"), local('Asterism-Regular'), url("https://d3jpwrui3eswtl.cloudfront.net/asterism/Asterism-Regular.otf") format('opentype');
+  }
+
+  @font-face {
+    font-family: "Asterism";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Asterism"), local('Asterism-Regular'), url("https://d3jpwrui3eswtl.cloudfront.net/asterism/Asterism-Regular.otf") format('opentype');
+  }
